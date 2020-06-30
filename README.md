@@ -16,167 +16,54 @@ https://github.com/kamranahmedse/developer-roadmap
 ## Backend Roadmap
 ![](./Images/backend_roadmap_v1.0.1.png)
 
+<br>
+
+
+위의 우아한 테크코스의 교육 과정을 토대로 로드맵을 작성하였습니다. <br>
+아래에서는 학습에 도움이 될만한 자료 링크를 공유합니다.
+
+
 ## Contents
 
-### 1. Programming Basic
+### [1. Programming Basic](./docs/1_programming_basic/README.md)
 
-#### 1) Java
+- 자바 프로그래밍 언어에 대한 기본 문법을 익혀 프로그래밍하는 경험을 한다.
 
-- [JDK](./docs/1_programming_basic/java/jdk.md)
-        
-- Tools
+- 읽기 좋은 코드를 구현하는 것이 왜 중요한지와 코드를 개선해 읽기 좋은 코드로 변경해 보는 경험을 한다.
 
-#### 2) Git
+- 자신이 구현한 코드에 대해 단위 테스트와 리팩토링하는 경험을 한다.
 
-#### 3) Cooperation
+- 웹 프론트엔드에서 웹 백엔드까지 프로그래밍해 웹 애플리케이션을 개발하는 경험을 한다.
 
-- Code Review
+### [2. Web Basic](./docs/2_web_basic/README.md)
 
-- Pair Programming
+- Spring 프레임워크 기반으로 웹 애플리케이션을 개발하는 경험을 한다.
 
-#### 4) Principle
+- TDD, ATDD 기반으로 웹 애플리케이션을 개발하고 리팩토링하는 경험을 한다.
 
-- Clean Code
+- 구현한 프로그램을 서버에 배포하는 경험을 한다.
 
-- Refactoring
+- 팀 프로젝트를 통해 팀원들간의 소통, 협업, 회고 경험을 한다.
 
-- Object-Oriented
-    
-#### 5) Testing
 
-- Junit5
+### [3. Getting Deeper](./docs/3_getting_deeper/README.md)
 
-- 학습 테스트
+- 웹 서버를 직접 구현해 HTTP를 이해하고, 서블릿 컨테이너의 동작 원리를 이해한다.
 
-- F.I.R.S.T
+- JDBC 라이브러리, MVC, DI 프레임워크 구현을 통해 Spring 프레임워크의 동작 원리를 이해한다.
 
-- TDD
+- 레거시 프로젝트를 리팩토링하는 경험을 한다.
 
----
+- 객체지향 설계, 인증 및 보안, WebSocket 경험을 한다.
 
-### 2. Web Basic
+- 대용량 서비스를 위한 시스템 아키텍처 설계, 데이터 처리 경험을 한다.
 
-#### 1) Spring Framework
 
-- Spring MVC
+### [4. Project]((./docs/4_project/README.md))
 
-- Spring Core
+- 개발 프로세스 기반으로 프로젝트 진행, 협업하는 경험을 한다.
 
-- Springboot
-
-#### 2) Common Topics
-
-- Basic Frontend Knowledge
-    
-- OS
-    
-- Network
-
-#### 3) Web Architecture Components
-
-- Web Server
-
-- Proxy
-    
-- Load Balancer
-
-- CDN
-
-- Database
-    
-#### 4) Project
-
-- ATDD
-
-- RESTful APIs
-
-- Documentation
-
-- Logging
-
-- Authentication
-
-- Authorization
-
-- Deployment
-
----
-
-### 3. Getting Deeper
-
-#### 1) Java
-
-#### 2) Spring Framework
-
-- Spring MVC
-
-- Spring DI
-
-- Spring AOP
-
-#### 3) Refactoring Legacy Code
-
-#### 4) Design
-
-- GOF Design Patterns
-
-- DDD
-
-- Clean Architecture
-
-#### 5) Common Topics
-
-- Database
-
-- Network
-
-- JVM
-
----
-
-### 4. Project
-
-#### 1) Software Development Process
-
-- Agile
-
-- Scrum
-
-- Lean
-
-- Kanban
-
-- Schedule Estimation
-
-- CI / CD
-
-#### 2) Common Topics
-
-- Authentication
-
-- Fault Tolerance
-
-- Caching
-
-- Security
-
-#### 3) More Web Architecture Components
-
-- Docker Container
-
-- WebSocket
-
-- NoSQL
-
-- Elasticsearch
-
-- Kafka
-
-- Redis
-
-- Spring Batch
-
-- Spring Security
+- 배포를 자동화하고, 피드백을 받아 지속적으로 개선하는 경험을 한다.
 
 ---
 
@@ -188,7 +75,6 @@ https://github.com/kamranahmedse/developer-roadmap
 - [Back-End-Developer-Interview-Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions)
 
 - [awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions)
-
 
 
 ## Mockup Files
