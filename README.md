@@ -38,7 +38,7 @@ https://github.com/kamranahmedse/developer-roadmap
 - 웹 서비스를 개발하며 필요한 지식(JS, SQL, OS 등)을 익힌다.
 
 
-### [3. Project]((./docs/3_project/README.md))
+### [3. Project](./docs/3_project/README.md))
 
 - 개발 프로세스 기반으로 프로젝트 진행, 협업하는 경험을 한다.
 
