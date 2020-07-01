@@ -16,30 +16,6 @@
     
 - Network
 
-#### 3) Web Architecture Components
-
-- Web Server
-
-- Proxy
-    
-- Load Balancer
-
-- CDN
-
 - Database
     
-#### 4) Project
 
-- ATDD
-
-- RESTful APIs
-
-- Documentation
-
-- Logging
-
-- Authentication
-
-- Authorization
-
-- Deployment
