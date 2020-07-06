@@ -14,7 +14,7 @@ https://github.com/kamranahmedse/developer-roadmap
 ![](./Images/intro_roadmap_v1.0.png)
 
 ## Backend Roadmap
-![](./Images/backend_roadmap_v1.1.1.png)
+![](./Images/backend_roadmap_v1.1.2.png)
 
 <br>
 
