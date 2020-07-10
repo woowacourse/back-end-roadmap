@@ -11,10 +11,10 @@ https://github.com/kamranahmedse/developer-roadmap
 - [홍보기사](https://ppss.kr/archives/201479)
 
 ## Introduction
-![](./Images/intro_roadmap_v1.0.png)
+![](./Images/intro_roadmap_v1.2.1.png)
 
 ## Backend Roadmap
-![](./Images/backend_roadmap_v1.1.2.png)
+![](./Images/backend_roadmap_v1.2.2.png)
 
 <br>
 
@@ -47,11 +47,11 @@ https://github.com/kamranahmedse/developer-roadmap
 
 ### [4. Getting Deeper](./docs/4_getting_deeper/README.md)
 
+- 추가적으로 학습한 내용들을 기존 프로젝트에 적용하는 경험을 한다.
+
 - 프레임워크의 동작원리를 이해한다.
 
 - 레거시 프로젝트를 리팩토링하는 경험을 한다.
-
-- 추가적으로 학습한 내용들을 기존 프로젝트에 적용하는 경험을 한다.
 
 - 대용량 서비스를 위한 시스템 아키텍처 설계, 데이터 처리 등을 고려한다.
 
