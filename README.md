@@ -4,13 +4,21 @@ https://github.com/kamranahmedse/developer-roadmap
 ## Introduction
 우아한테크코스 로드맵 2020년 버전<br>
 
+우아한 테크코스에서 진행하는 커리큘럼을 기초로 작성하였습니다. 
+백엔드 개발자를 준비하는 많은 분들이 학습을 계획하시는데에 조금이나마 도움이 되기를 바랍니다.
+
+#### 🙏🏻 [How to Contribute](./CONTRIBUTING.md)
+
+## What is WoowahanTechcourse
+
 - [모집 페이지](https://woowacourse.github.io/)
 
 - [기술 블로그 모음](https://woowabros.github.io/category/techcourse/)
 
 - [홍보기사](https://ppss.kr/archives/201479)
 
-## Introduction
+
+## WoowahanTechcourse Roadmap
 ![](./Images/intro_roadmap_v1.2.1.png)
 
 ## Backend Roadmap
@@ -60,6 +68,8 @@ https://github.com/kamranahmedse/developer-roadmap
 
 
 ## Links
+
+- [백엔드 개발자를 꿈꾸는 학생개발자에게](https://d2.naver.com/news/3435170)
 
 - [Interview_Question_for_Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
 
